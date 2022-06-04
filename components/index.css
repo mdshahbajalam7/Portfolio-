@@ -133,7 +133,6 @@ font-size: 25px;
 }
 .skilldiv{
     width: 90%;
-    /* height: 500px; */
     margin: auto;
     display: grid;
     grid-template-columns: repeat(4,1fr);
@@ -645,10 +644,6 @@ h3:hover{
         font-size: 12px;
 
     }
-    /* .projectdiv img{
-        width: 5%;
-        height: 75%;
-    } */
     .h4-div{
         font-size: 13px;
         border-bottom: 1px solid gray;
@@ -678,35 +673,26 @@ h3:hover{
     #header a{
         margin-top: 50px;
         width: 20%;
-        /* margin-left: -10px; */
         font-size: 10px;
-        /* height: 20px; */
     }
-
     #container{
         width: 100%;
         margin-right: 100px;
     }
     #header {
         width: 70%;
-        /* padding-left: -100px; */
         margin-left: 30px;
-        /* border: 1px solid yellowgreen; */
     }
     .projectdiv p{
         width: 80%;
-        /* border: 1px solid ; */
-        /* height: 30%; */
         margin-left: 25px;
         margin-top: -50px;
     } 
     #container h1 a{
         margin-top: 5px;
         font-size: 13px;
-        /* margin-left: -30px; */
     }
     .tech-skill{
-        /* border: 1px solid ; */
         margin-top: -10px;
         width: 90%;
         margin-left: 15px;
@@ -715,13 +701,10 @@ h3:hover{
         margin-left: 39px;
     }
     #middlediv{
-        width: 90%;
-        margin: auto;
-        /* height: 20%; */
+        width: 100%;
+        margin-left: 30px;
         font-size: 15px;
         margin-top: 100px;
-        /* margin-left: 35px; */
-
     }
     .itag{
         text-align: center;
@@ -731,14 +714,14 @@ h3:hover{
     .itag1 {
         margin-left: 40%;
         margin-top: -27px;
-        /* height: 30px; */
     }
     .itag i{
         font:  1px;
     }
     .skilldiv{
-        margin: auto;
         display: grid;
+        width: 90%;
+        margin-left: 30px;
         grid-template-columns: repeat(2,1fr);
         border-bottom: 1px solid gray;
     }
@@ -752,7 +735,6 @@ h3:hover{
         margin-top: 20px;
         border-bottom: 1px solid gray;
         margin-top: 30px;
-        /* border: 1px solid red; */
     }
     .skilldiv h3{
         text-align: center;
@@ -761,10 +743,8 @@ h3:hover{
     }
     .imgdiv1{
         width: 90px;
-        /* height: 90px; */
     }
     .contact{
-        /* width: 90%; */
         margin: auto;
         margin-top: 20px;
     }
@@ -801,8 +781,6 @@ h3:hover{
     }
     .tech-skill img{
         width: 90px;
-        /* margin-top: 20px; */
-        /* height: 100px; */
     }
     .tech-skill1 img{
         width: 80px;
@@ -818,7 +796,7 @@ h3:hover{
     }
     .projectdiv img{
         width: 100%;
-        /* margin-left: -60px; */
+        /* margin-left: -50px; */
     }
     #submit{
         font-size: 15px;
