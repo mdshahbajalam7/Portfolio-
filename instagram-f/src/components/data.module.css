@@ -1,0 +1,26 @@
+.username{
+    border:  1px solid red;
+    margin-top: 20px;
+    width: 40%;
+    height: 30px;
+    font-size: 20px;
+
+}
+.btn{
+    width: 40%;
+    margin-top: 20px;
+    height: 30px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    border-radius: 10px;    
+}
+.maindiv{
+    border: 1px solid black;
+    width: 50%;
+    height: 350px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin: auto;
+    margin-top: 50px;
+    background-color: aquamarine;
+}

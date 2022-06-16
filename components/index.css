@@ -34,12 +34,8 @@ a{
 #header{
     margin-top: 10px;
     width: 50%;
-    /* padding-right: 10px; */
     font-size: large;
     font-size: 25px;
-    /* height: 30px; */
-    /* border: 1px solid    red; */
-    /* background-color: teal; */
     display: flex;
     justify-content:space-between;
 }
@@ -92,12 +88,12 @@ a{
     /* border: 1px solid; */
 
 }
-.h4tag:hover{
+/* .h4tag:hover{
     font-size: 20px;
     color: #10ff00;
     transition: 1s;
     cursor: pointer;
-}
+} */
 .itag ,.itag1 i{
     font-size: large;
     font-size: 40px;
@@ -212,11 +208,11 @@ font-size: 25px;
     text-decoration: none;
     /* border: 1px solid red; */
 }
-.btn2 a:hover{
+/* .btn2 a:hover{
     color: red;
     transition: 1s;
     font-size: 33px;
-}
+} */
 /* .btn1 a:hover{
     color: red;
     transition: 1s;
@@ -264,13 +260,13 @@ font-size: 25px;
     font-size: 25px;
 
 }
-.number a:hover{
-    /* max-zoom:25px; */
+/* .number a:hover{
+    max-zoom:25px;
     color: teal;
     transition: 1.5s;
     font-size: 28px;
 
-}
+} */
 .Email{
     /* margin-left: 120px; */
     cursor: pointer;
@@ -289,12 +285,12 @@ font-size: 25px;
     margin-top: -7px;
     font-size: 25px;
 }
-.email a:hover{
+/* .email a:hover{
     color: teal;
     transition: 1.5s;
     font-size: 28px;
 
-}
+} */
 #contactform{
 display: flex;
 justify-content: space-around;
