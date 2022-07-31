@@ -1,0 +1,45 @@
+.frame-header{
+    display: flex;
+    justify-content: space-around;
+    position: absolute;
+    align-items: center;
+    top: 0;
+    right: 0;
+    width: 350px;
+    background: #fff;
+    border-radius:0 0 0 10px;
+    overflow: hidden;
+
+}
+.header-itmes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    flex: 1;
+    border-right: 1px solid rgb(245, 245, 245);
+    position: relative;
+
+}
+.alert{
+    position: absolute;
+    background-color: green;
+    width: 10px;
+    height: 10px;
+    border-radius: 5px;
+    border: 2px solid #fff;
+    top: 10px;
+    right: 20px;
+}
+.current-Time{
+    font-size: 22px;
+    color:  gary;
+    max-width: 120px;
+    font-weight: 400;
+}
+// .fa-solid:hover{
+//     cursor: pointer;
+//     width: 30%;
+//     background: #ccc;
+
+// }

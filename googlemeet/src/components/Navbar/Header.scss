@@ -1,0 +1,26 @@
+.header{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 0px;
+    box-sizing: border-box;
+    // background-color: p;
+    border: 1px solid #555;
+}
+.logo{
+    display: flex;
+    align-items: center;
+    width: 124px;
+    img{
+        width: 120%;
+    }
+}
+.text{
+    font-size: 22px;
+    padding-left: 4px;
+    color: gray;
+}
+.fontawesome{
+    display: flex;
+    align-items: center;
+}
