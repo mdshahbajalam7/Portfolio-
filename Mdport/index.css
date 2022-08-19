@@ -324,6 +324,7 @@ section .title::after{
     display: grid;
     grid-template-columns: repeat(3,1fr);
     gap: 5px;
+    
 }
 .btn{
     /* width: 200px; */
@@ -728,11 +729,6 @@ footer span a:hover{
     .frontendSkill{
         display: grid;
         grid-template-columns: repeat(3,1fr);
-        /* gap: 10px;
-        text-align: center;
-        align-items: center;
-        width: 70%;
-        margin: auto; */
     }
 }
 
