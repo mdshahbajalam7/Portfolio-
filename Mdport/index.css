@@ -426,7 +426,7 @@ section .title::after{
       border:  solid red;
 } */
 .frontendSkill img{
-    width: 100%;
+    width: 70%;
     height: 150px;
 }
 
@@ -509,10 +509,6 @@ section .title::after{
     content: "get in touch";
     background: #222;
 }
-/* .row1{
-    margin-top: 10px;
-    border: 1px solid teal;
-} */
 .row1 i{
     margin-top: 10px;
     font-size: 25px;
@@ -736,6 +732,7 @@ footer span a:hover{
     .home .home-content .text-2{
         font-size: 50px;
     }
+   
     .home .home-content .text-3{
         font-size: 27px;
     }
